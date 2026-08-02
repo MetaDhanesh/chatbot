@@ -1,0 +1,4 @@
+0 ## Tell me something about Amazon ## Amazon Inc. is an American multinational e-commerce to cloud storage corporation that operates AWS, e-commerce site, Kindle.
+1 ## What is the revenue of Amazon ## The revenue of Amazon is 50,034 crores USD
+2 ## How many employees are there in Amazon ## The number of employees in Amazon is 1.3 million
+3 ## Subsidiaries of Amazon ## The subsidiaries of Amazon are AWS , Amazon.com , Amazon music , Alexa etc
